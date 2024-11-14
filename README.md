@@ -84,7 +84,7 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 Click the cds.lib file and save the file by clicking on Save option 
 
 ### Fig 4:cds.lib file Creation
-Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
+Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used.
 
 Select “Don’t include any libraries (verilog design)” from “New cds.lib file” and click on “OK” as in below figure .
 
