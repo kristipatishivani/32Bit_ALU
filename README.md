@@ -49,6 +49,8 @@ Similarly, create your test bench using gedit <filename_tb>.v or <filename_tb>.v
 Use Save option or Ctrl+S to save the code or click on the save option from the top most right corner and close the text file.
 
 ## Functional Simulation: 
+![WhatsApp Image 2024-11-14 at 14 03 49_ccceb638](https://github.com/user-attachments/assets/6510e4f4-f7e4-4ce2-8205-5e263b3b8938)
+
 
 Invoke the cadence environment by type the below commands 
 
@@ -72,6 +74,8 @@ or
 
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
+![WhatsApp Image 2024-11-14 at 14 04 23_380c7a2b](https://github.com/user-attachments/assets/90d6e48f-5396-4741-b6d9-c5b318c845ad)
+
 
 ### Fig 3: Setting Multi-step simulation
 
@@ -99,7 +103,8 @@ Left side you can see the HDL files. Right side of the window has worklib and sn
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
-![Screenshot_2024-11-14_131918 1](https://github.com/user-attachments/assets/b18f22f1-26a1-4543-b6c7-8bbc9689c8cf)
+![WhatsApp Image 2024-11-14 at 14 04 51_3af9a0e4](https://github.com/user-attachments/assets/b9a05200-f0d6-45fc-8f3f-f93ed99e8c7d)
+
 
 
 ### Fig 6: Nclaunch Window
