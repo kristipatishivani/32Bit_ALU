@@ -80,7 +80,7 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 Click the cds.lib file and save the file by clicking on Save option 
 
 ### Fig 4:cds.lib file Creation
-
+![Screenshot_2024-11-14_131833 1](https://github.com/user-attachments/assets/356ffe90-3543-4b1f-8bc8-043ad28e7926)
 Save cds.lib file and select the correct option for cds.lib file format based on the HDL Language and Libraries used. 
 
 Select “Don’t include any libraries (verilog design)” from “New cds.lib file” and click on “OK” as in below figure .
@@ -100,6 +100,8 @@ Left side you can see the HDL files. Right side of the window has worklib and sn
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+![Screenshot_2024-11-14_131918 1](https://github.com/user-attachments/assets/b18f22f1-26a1-4543-b6c7-8bbc9689c8cf)
+
 
 ### Fig 6: Nclaunch Window
 
@@ -142,6 +144,8 @@ To check the port connections in hierarchical design
 Inputs: Top level design / test bench Verilog codes 
 
 Outputs: Elaborate database updated in mapped library if successful, generates report else error reported in log file 
+![image](https://github.com/user-attachments/assets/930361cd-fdf5-4f38-946d-46df3fd680c5)
+
 
 ## 	Steps for elaboration 
 
@@ -172,12 +176,17 @@ Outputs: Simulation log file, waveforms for debugging
 Simulation allow to dump design and test bench signals into a waveform 
 
 Steps for simulation – Run the simulation command with simulator options
+![image](https://github.com/user-attachments/assets/4ddbf852-e1a9-4ef6-a5be-830b8460ffa0)
+
 
 ## Fig 9: Design Browser window for simulation
+![image](https://github.com/user-attachments/assets/36067588-54ed-40f9-a745-5573ac3ed310)
+
 
 ## Fig 10:Simulation Waveform Window
+![image](https://github.com/user-attachments/assets/ff006ccc-7e55-47ed-b0b8-a67a5516c7f0)
 
-## Fig 11:Simulation Waveform Window
+
 
 
 
