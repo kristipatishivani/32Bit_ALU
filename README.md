@@ -233,7 +233,6 @@ Steps for simulation – Run the simulation command with simulator options
 ![image](https://github.com/user-attachments/assets/ff006ccc-7e55-47ed-b0b8-a67a5516c7f0)
 
 Result:
-
   The functionality of a 4bit_up-down asynchronous reset Counter was successfully verified using a test bench and simulated with the nclaunch tool.
 
 
